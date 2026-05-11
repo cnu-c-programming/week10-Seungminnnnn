@@ -13,6 +13,7 @@ void update_value(struct IPv4 s) {
     sprintf(s.data, "update_val");
 }
 
+
 void update_ptr(struct IPv4 *s) {
     sprintf(s->data, "update_ptr");
 }

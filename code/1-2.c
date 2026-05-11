@@ -25,4 +25,5 @@ int main() {
     printf("data: %s, size: %zu\n", s.data, sizeof(s.data));
 
     return 0;
+    
 }

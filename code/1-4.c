@@ -3,6 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 
+
 struct IPv4 {
     unsigned int version;
     unsigned int ihl;
